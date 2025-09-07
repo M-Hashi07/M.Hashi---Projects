@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hashi</h1>
-<h3 align="center">A passionate Cloud Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohamed H</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hashi07&label=Profile%20views&color=0e75b6&style=flat" alt="m-hashi07" /> </p>
 
